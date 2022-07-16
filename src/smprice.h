@@ -16,8 +16,8 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
-#ifndef KPRICE_H
-#define KPRICE_H
+#ifndef SMPRICE_H
+#define SMPRICE_H
 
 #include <QtCore>
 #include <QObject>
